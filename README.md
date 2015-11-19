@@ -15,7 +15,7 @@ This project utilizes the ability to add custom ElementParsers from the [gwt-cus
 
 This project also adds support for using GXT events from UiBinder.
 
-To get started, check out the [User's Guide](GettingStarted.md).  Also check out the [Demo Site](http://gxt-uibinder.appspot.com/)
+To get started, check out the [User's Guide](GettingStarted.md).  
 
 # News #
 **2011-05-11**
