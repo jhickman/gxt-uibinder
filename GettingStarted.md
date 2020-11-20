@@ -21,8 +21,3 @@ Example:
 </module>
 ```
 
-# Examples #
-
-The best source for examples is to browse the demo site.  This site contains many example of how to use GXT in UiBinder XML files.
-
-[Visit Demo Site](http://gxt-uibinder.appspot.com/)
